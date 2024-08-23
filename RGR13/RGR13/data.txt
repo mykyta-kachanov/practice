@@ -1,0 +1,5 @@
+Bob Brown,Support,5,2,1983,40000.00
+Alice Johnson,Tester,20,7,1992,45000.00
+John Doe,Manager,12,5,1980,50000.00
+Jane Smith,Developer,23,11,1990,60000.00
+Emily Brown,Lawyer,21,5,2024,45000.00
